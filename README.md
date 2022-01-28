@@ -22,6 +22,9 @@ Maria has tasked me to analyze academic scores to determine academic dishonesty.
 
   After running the analysis, Thomas high school summary was affected slightly.  After replacing Thomas High School 9th grade scores for reading and math, the average math score   went down .07%, the average reading went up .05%, the percent passing math went down .09%, the percent passing reading went down .29%, and the overall passing went down     .32%. 
 
+![School](https://github.com/jag28731/School_District_Analysis/blob/main/Resources/pre%20school.png)
+![School](https://github.com/jag28731/School_District_Analysis/blob/main/Resources/post%20school.png)
+
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
   After replacing the 9th grade scores, Thomas High School had slightly lower scores but still a top school. 
