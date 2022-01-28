@@ -12,7 +12,7 @@ Maria has tasked me to analyze academic scores to determine academic dishonesty.
 ### Results
 - How is the district summary affected?
 
-After running the analysis, the district school summary was affected slightly.  After replacing Thomas High School 9th grade scores for reading and math, the average math score went down .1%, the average reading score remained the same, the percent passing math went down .2%, the percent passing reading went down .1%, and the overall passing went down .3%. 
+  After running the analysis, the district school summary was affected slightly.  After replacing Thomas High School 9th grade scores for reading and math, the average math       score went down .1%, the average reading score remained the same, the percent passing math went down .2%, the percent passing reading went down .1%, and the overall passing     went down .3%. 
 
 ![District](https://github.com/jag28731/School_District_Analysis/blob/main/Resources/Pre%20District.png)
 ![District](https://github.com/jag28731/School_District_Analysis/blob/main/Resources/Post%20District.png)
@@ -20,41 +20,41 @@ After running the analysis, the district school summary was affected slightly.  
 
 - How is the school summary affected?
 
-After running the analysis, Thomas high school summary was affected slightly.  After replacing Thomas High School 9th grade scores for reading and math, the average math score went down .07%, the average reading went up .05%, the percent passing math went down 26.36%, the percent passing reading went down 27.65%, and the overall passing went down 25.87%. 
+  After running the analysis, Thomas high school summary was affected slightly.  After replacing Thomas High School 9th grade scores for reading and math, the average math score   went down .07%, the average reading went up .05%, the percent passing math went down 26.36%, the percent passing reading went down 27.65%, and the overall passing went down     25.87%. 
 
 ![Results](https://github.com/jag28731/Election-Analysis/blob/main/Resources/election_analysis.txt)
 ![Results](https://github.com/jag28731/Election-Analysis/blob/main/Resources/election_analysis.txt)
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-After replacing the 9th grade scores, Thomas High School went from a top school in the district to a lower school in the district. 
+  After replacing the 9th grade scores, Thomas High School went from a top school in the district to a lower school in the district. 
   
 - How does replacing the ninth-grade scores affect the following:
 
-Math and reading scores by grade
-
-The scores from 9th grade turns into a NaN score, while the 10th-12th grades remain the same.
-
-![Results](https://github.com/jag28731/Election-Analysis/blob/main/Resources/election_analysis.txt)
-![Results](https://github.com/jag28731/Election-Analysis/blob/main/Resources/election_analysis.txt)
-
-Scores by school spending
-
-The $630-$644 category changed.  The average math score went down .02%, the average reading score went up .02%, the percent passing math went down .02%, the percent passing reading went down .07%, and the overall passing went down .08%.
+  Math and reading scores by grade:
+  
+  The scores from 9th grade turns into a NaN score, while the 10th-12th grades remain the same.
 
 ![Results](https://github.com/jag28731/Election-Analysis/blob/main/Resources/election_analysis.txt)
 ![Results](https://github.com/jag28731/Election-Analysis/blob/main/Resources/election_analysis.txt)
 
-Scores by school size
+  Scores by school spending:
 
-The Medium School category changed.  The average math score went down .01%, the average reading score went up .01%, the percent passing math went down .02%, the percent passing reading went down .06%, and the overall passing went down .06%.
+  The $630-$644 category changed.  The average math score went down .02%, the average reading score went up .02%, the percent passing math went down .02%, the percent passing     reading went down .07%, and the overall passing went down .08%.
 
 ![Results](https://github.com/jag28731/Election-Analysis/blob/main/Resources/election_analysis.txt)
 ![Results](https://github.com/jag28731/Election-Analysis/blob/main/Resources/election_analysis.txt)
 
-Scores by school type
+  Scores by school size
 
-The charter category changed.  The average math score went down .01%, the average reading score went up .01%, the percent passing math went down .01%, the percent passing reading went down .04%, and the overall passing went down .04%.
+  The Medium School category changed.  The average math score went down .01%, the average reading score went up .01%, the percent passing math went down .02%, the percent         passing reading went down .06%, and the overall passing went down .06%.
+
+![Results](https://github.com/jag28731/Election-Analysis/blob/main/Resources/election_analysis.txt)
+![Results](https://github.com/jag28731/Election-Analysis/blob/main/Resources/election_analysis.txt)
+
+  Scores by school type
+
+  The charter category changed.  The average math score went down .01%, the average reading score went up .01%, the percent passing math went down .01%, the percent passing       reading went down .04%, and the overall passing went down .04%.
 
   
 ![Results](https://github.com/jag28731/Election-Analysis/blob/main/Resources/election_analysis.txt)
