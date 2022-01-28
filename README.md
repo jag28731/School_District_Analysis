@@ -32,21 +32,33 @@ Maria has tasked me to analyze academic scores to determine academic dishonesty.
 - How does replacing the ninth-grade scores affect the following:
 
   - Math and reading scores by grade:
-  - 
+  
     The scores from 9th grade turns into a NaN score, while the 10th-12th grades remain the same
+    
+    ![Grade](https://github.com/jag28731/School_District_Analysis/blob/main/Resources/Pre%20grade.png)
+    ![Grade](https://github.com/jag28731/School_District_Analysis/blob/main/Resources/post%20grade.png)
 
   - Scores by school spending:
 
     The $630-$644 category changed.  The average math score went down .02%, the average reading score went up .02%, the percent passing math went down .02%, the percent             passing reading went down .07%, and the overall passing went down .08%.
 
+    ![Spending](https://github.com/jag28731/School_District_Analysis/blob/main/Resources/pre%20spending.png)
+    ![Spending](https://github.com/jag28731/School_District_Analysis/blob/main/Resources/post%20spending.png)
+    
   - Scores by school size
 
     The Medium School category changed.  The average math score went down .01%, the average reading score went up .01%, the percent passing math went down .02%, the percent         passing reading went down .06%, and the overall passing went down .06%.
 
+    ![Size](https://github.com/jag28731/School_District_Analysis/blob/main/Resources/pre%20size.png)
+    ![Size](https://github.com/jag28731/School_District_Analysis/blob/main/Resources/post%20size.png)
+    
   - Scores by school type
 
     The charter category changed.  The average math score went down .01%, the average reading score went up .01%, the percent passing math went down .01%, the percent passing       reading went down .04%, and the overall passing went down .04%.
 
+    ![Type](https://github.com/jag28731/School_District_Analysis/blob/main/Resources/pre%20type.png)
+    ![Type](https://github.com/jag28731/School_District_Analysis/blob/main/Resources/post%20type.png)
+    
 ## School District Analysis Summary
 Overall, there changes were minimum.  The four follow changes occurred. 
 1.	The average math score went down .1%
