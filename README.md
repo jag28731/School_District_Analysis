@@ -13,7 +13,7 @@ Maria has tasked me to analyze academic scores to determine academic dishonesty.
 - How is the district summary affected?
 After running the analysis, the district school summary was affected slightly.  After replacing Thomas High School 9th grade scores for reading and math, the average math score went down .1%, the average reading score remained the same, the percent passing math went down .2%, the percent passing reading went down .1%, and the overall passing went down .3%. 
 
-![District]( School_District_Analysis/Pre District.png at main · jag28731/School_District_Analysis (github.com))
+![District](https://github.com/jag28731/School_District_Analysis/blob/main/Resources/Pre%20District.png)
 ![District]( School_District_Analysis/Post District.png at main · jag28731/School_District_Analysis (github.com))
 
 
