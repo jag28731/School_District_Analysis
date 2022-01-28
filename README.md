@@ -38,9 +38,9 @@ Maria has tasked me to analyze academic scores to determine academic dishonesty.
 ![Results](https://github.com/jag28731/Election-Analysis/blob/main/Resources/election_analysis.txt)
 ![Results](https://github.com/jag28731/Election-Analysis/blob/main/Resources/election_analysis.txt)
 
-    - Scores by school spending:
+  - Scores by school spending:
 
-      The $630-$644 category changed.  The average math score went down .02%, the average reading score went up .02%, the percent passing math went down .02%, the percent             passing reading went down .07%, and the overall passing went down .08%.
+    The $630-$644 category changed.  The average math score went down .02%, the average reading score went up .02%, the percent passing math went down .02%, the percent             passing reading went down .07%, and the overall passing went down .08%.
 
 ![Results](https://github.com/jag28731/Election-Analysis/blob/main/Resources/election_analysis.txt)
 ![Results](https://github.com/jag28731/Election-Analysis/blob/main/Resources/election_analysis.txt)
